@@ -1,0 +1,23 @@
+body {
+  background-color: #84a9ac;
+}
+
+h1 {
+  color: #204051
+}
+
+body {
+  color: #fecb89
+}
+
+hr {
+background-color: none;
+border-style: dotted none none;
+border-color: #fa7d09;
+border-width: 5px;
+width: 10%
+}
+
+body {
+  font-family: arial
+}
